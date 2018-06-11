@@ -1,5 +1,8 @@
 (function () {
-    window.setTimeout(function(){
+    window.onload=function(){
         window.location.href = 'https://github.com/ZYallers/';
-    },1500);
+    };
+    /*window.setTimeout(function(){
+        window.location.href = 'https://github.com/ZYallers/';
+    },700);*/
 })();
